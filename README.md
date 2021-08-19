@@ -1,7 +1,7 @@
+[<img width="85px" src="https://github.com/mia-moran/mia-moran/blob/main/logo.png">][website]
+
 ### Hi [María Morán][website] here 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/_mariamoraan?color=1DA1F2&label=MARIA%20MORAN&logo=twitter&logoColor=1DA1F2)](https://twitter.com/_mariamoraan)
-
-[<img width="85px" src="https://github.com/mia-moran/mia-moran/blob/main/logo.png">][website]
 
 ### Software Engineer 😊📖 and Developer 💕💾
 
