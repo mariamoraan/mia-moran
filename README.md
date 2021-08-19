@@ -3,16 +3,13 @@
 
 [<img src="https://drive.google.com/file/d/1fmDcB6H1LDEM8CIl3fwt9-_q7sjG28o-/view?usp=sharing">][website]
 
-### Software Engineer and Developer
+### Software Engineer 😊📖 and Developer 💕💾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 I’m currently working on Twilio
+- 📘 I’m currently learning React & Ionic in depth
+- 👭 I’m looking to collaborate on Ionic Apps development and React Webs development
+- 📧 How to reach me: mail me to [mariamoranluaces@gmail.com][email]
+- 😄 Pronouns: She/Her
 
 ---
 
@@ -31,4 +28,5 @@
 <!--Links-->
 [website]:https://mariamoran.es/
 [yt]:https://mariamoran.es/
+[email]:mailto:mariamoranluaces@gmail.com
 
