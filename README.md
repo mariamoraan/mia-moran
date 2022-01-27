@@ -7,7 +7,7 @@
 
 ### Software Engineer 😊📖 and Developer 💕💾
 
-- 💻 I’m currently working on Twilio
+- 💻 I’m currently working on Orca
 - 📘 I’m currently developing react projects and improving my portfolio
 - 👭 I’m looking to collaborate on react native apps
 - 📧 How to reach me: mail me to [mariamoranluaces@gmail.com][email]
